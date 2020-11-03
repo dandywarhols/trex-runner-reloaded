@@ -1,1 +1,2 @@
-# trex-runner-reloaded
+# trex
+trex runner game
